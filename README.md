@@ -11,7 +11,7 @@
 </div>
 <div>
   <br>
-  <img align="left " alt="Kayquin_profile" height="150" width="150" src="https://github.com/Kayquin/Profile/assets/104329791/f7de8c7e-ad6f-42df-8cf6-58531af65cf9">
+  <img align="left " alt="Kayquin_profile" height="150" width="150" src="https://github.com/Kayquin/Kayquin/assets/104329791/db59563d-cd04-4e20-bcea-c989f000dac8">
 </div>
 <div style="display: inline_block"><br>
   <h2>Hard Skills</h2>
