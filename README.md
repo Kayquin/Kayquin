@@ -2,12 +2,20 @@
 <h1>
   <b>Olá e bem-vindo ao meu perfil !</b> 
   </h1>
-<b>Fico feliz por você estar aqui. Sinta-se à vontade para explorar meu perfil e conhecer mais sobre minha experiência e paixão pela tecnologia.</b>
+<b>[BR] Fico feliz por você estar aqui. Sinta-se à vontade para explorar meu perfil e conhecer mais sobre minha experiência e paixão pela tecnologia.</b>
 <br>
 <br>
 <b>Atenciosamente,
 <br>
 [Kayquin]</b>
+  <br>
+  <br>
+<b>[US] I'm glad you're here. Feel free to explore my profile and learn more about my experience and passion for technology.
+<br>
+<br>
+Sincerely,
+  <br>
+[Kayquin]<br>
 </div>
 <div>
   <br>
@@ -25,7 +33,7 @@
 </div>
 
 <div>
-  <h1>Redes Sociais</h1>
+  <h1>Social Media</h1>
   <a href="https://www.instagram.com/kayqueavelar/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ivan-kayque-pinheiro-avelar-bb3271232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
