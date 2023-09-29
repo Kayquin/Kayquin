@@ -1,4 +1,5 @@
-<div>
+<!DOCTYPE html>
+<html>
 <h1>
   <b>Olá e bem-vindo ao meu perfil !</b> 
   </h1>
@@ -37,3 +38,4 @@ Sincerely,
   <a href="https://www.linkedin.com/in/ivan-kayque-pinheiro-avelar-bb3271232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+</html>
