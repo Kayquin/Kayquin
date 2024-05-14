@@ -188,5 +188,7 @@
 <summary><img height="20" alt="GIF" src="https://github.com/Kayquin/Kayquin/blob/main/img/spotify.gif?raw=true"/> Kayquin Spotify Data</summary>
 <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=kayque9868" alt="Data Card for Spotify">
 </details>
+<div align="center">
 <img alt="Spotify" width="200px" height="270px" src="https://spotify-github-profile.vercel.app/api/view?uid=kayque9868&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"/>
+</div>
 </div>
