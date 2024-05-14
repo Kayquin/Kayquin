@@ -1,7 +1,7 @@
 -----
 
 <div align="center">
-<img alt="Header" src="https://github.com/Kayquin/Kayquin/blob/main/img/headerprofile.png?raw=true"/>
+<img alt="Header" src="https://github.com/Kayquin/Kayquin/blob/main/img/headerprofile.png?raw=true" width="1000px" height="300px"/>
 </div>
 
 -----
