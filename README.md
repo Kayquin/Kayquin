@@ -1,7 +1,7 @@
 -----
 
-<div>
-<img align="center" alt="Header" src="https://github.com/Kayquin/Kayquin/blob/main/img/header.png?raw=true"/>
+<div align="center">
+<img alt="Header" src="https://github.com/Kayquin/Kayquin/blob/main/img/headerprofile.png?raw=true"/>
 </div>
 
 -----
@@ -16,7 +16,7 @@
 </td>
 <td><a href="https://replit.com/@aramuni"><img src="https://github.com/Kayquin/Kayquin/blob/main/img/replit3.svg?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="mailto:Kayquin@gmail.com" target="_blank"><img src="https://github.com/Kayquin/Kayquin/blob/main/img/gmail3.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="mailto:Kayque9868@gmail.com" target="_blank"><img src="https://github.com/Kayquin/Kayquin/blob/main/img/gmail3.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td><a href="https://wa.me/5531980402103" target="_blank"><img src="https://github.com/Kayquin/Kayquin/blob/main/img/wpp2.png?raw=true" width="50px" height="50px"/></a>
 </td>
@@ -93,6 +93,7 @@
 </div>
 
 -----
+<div>
 <div>
 <details>
 <summary><img height="20" alt="GIF" src="https://github.com/Kayquin/Kayquin/blob/main/img/spotify.gif?raw=true"/> Kayquin Spotify Data</summary>
