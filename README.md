@@ -80,7 +80,7 @@
 - :page_facing_up: &nbsp; Veja meu <a href="http://lattes.cnpq.br/1208427665892059" target="_blank">Currículo Lattes</a> para mais informações.
 </p>
 </div>
-</div>
+
 -----
 
 <img height="20" alt="GIF" src="https://github.com/Kayquin/Kayquin/blob/main/img/graphic.gif?raw=true"/>GitHub Stats:
