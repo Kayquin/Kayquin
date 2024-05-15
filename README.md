@@ -16,11 +16,11 @@
 </td>
 <td><a href="https://www.instagram.com/kayqueavelar/" target="_blank"> <img src="https://github.com/Kayquin/Kayquin/blob/main/img/insta2.png?raw=true" width="50px" height="50px"/></a>
 </td>
+<td><a href="https://wa.me/5531980402103](https://api.whatsapp.com/send?phone=5531989052637&text=Me%20diga%20o%20que%20est%C3%A1%20precisando" target="_blank"><img src="https://github.com/Kayquin/Kayquin/blob/main/img/wpp2.png?raw=true" width="50px" height="50px"/></a>
+</td>
 <!-- <td><a href="https://github.com/Kayquin" target="_blank"><img src="https://github.com/Kayquin/Kayquin/blob/main/img/github5.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td><a href="https://replit.com/@aramuni"><img src="https://github.com/Kayquin/Kayquin/blob/main/img/replit3.svg?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="https://wa.me/5531980402103" target="_blank"><img src="https://github.com/Kayquin/Kayquin/blob/main/img/wpp2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td><a href="https://www.linkedin.com/in/Kayquin/" target="_blank"><img src="https://github.com/Kayquin/Kayquin/blob/main/img/linkedin2.png?raw=true" width="50px" height="50px"/></a>
 </td>
