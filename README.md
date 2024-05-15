@@ -2,9 +2,6 @@
 
 <div align="center">
 <img alt="Header" src="https://github.com/Kayquin/Kayquin/blob/main/img/headerprofile.png?raw=true"/>
-<br>
-<br>
-<img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=Kayquin"/>
 </div>
 
 -----
@@ -52,10 +49,9 @@
 
 -----
 
-<div align="justify">
+<!-- <div align="justify">
 <img height="20" alt="GIF" src="https://github.com/Kayquin/Kayquin/blob/main/img/soulgem.gif?raw=true"/>Sobre mim:
 
-<img align="right" alt="GIF" src="https://github.com/Kayquin/Kayquin/blob/main/img/dev.gif?raw=true" width="340px" height="400px"/>
 <br>
 <br>
 <br>
@@ -66,16 +62,17 @@
 <br>
 </div>
 
------
+----- -->
 
 
+<img align="right" alt="GIF" src="https://github.com/Kayquin/Kayquin/blob/main/img/dev.gif?raw=true" width="340px" height="400px"/>
 
 
-<div align="justify"> 
+<!-- <div align="justify"> 
 <img height="20" alt="GIF" src="https://github.com/Kayquin/Kayquin/blob/main/img/soulgem.gif?raw=true"/>Meus interesses pessoais:
 </div>
 
------
+----- -->
 
 <div>
 
@@ -194,4 +191,25 @@
 <div align="center">
 <img alt="Spotify" width="200px" height="270px" src="https://spotify-github-profile.vercel.app/api/view?uid=kayque9868&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"/>
 </div>
+</div>
+<div align="center">
+
+-----
+
+```text
+  __    __                                     __          
+|  \  /  \                                   |  \         
+| ▓▓ /  ▓▓ ______  __    __  ______  __    __ \▓▓_______  
+| ▓▓/  ▓▓ |      \|  \  |  \/      \|  \  |  \  \       \ 
+| ▓▓  ▓▓   \▓▓▓▓▓▓\ ▓▓  | ▓▓  ▓▓▓▓▓▓\ ▓▓  | ▓▓ ▓▓ ▓▓▓▓▓▓▓\
+| ▓▓▓▓▓\  /      ▓▓ ▓▓  | ▓▓ ▓▓  | ▓▓ ▓▓  | ▓▓ ▓▓ ▓▓  | ▓▓
+| ▓▓ \▓▓\|  ▓▓▓▓▓▓▓ ▓▓__/ ▓▓ ▓▓__| ▓▓ ▓▓__/ ▓▓ ▓▓ ▓▓  | ▓▓
+| ▓▓  \▓▓\\▓▓    ▓▓\▓▓    ▓▓\▓▓    ▓▓\▓▓    ▓▓ ▓▓ ▓▓  | ▓▓
+ \▓▓   \▓▓ \▓▓▓▓▓▓▓_\▓▓▓▓▓▓▓ \▓▓▓▓▓▓▓ \▓▓▓▓▓▓ \▓▓\▓▓   \▓▓
+                  |  \__| ▓▓     | ▓▓                     
+                   \▓▓    ▓▓     | ▓▓                     
+                    \▓▓▓▓▓▓       \▓▓
+```
+<img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=Kayquin"/>
+
 </div>
