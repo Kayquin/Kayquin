@@ -44,7 +44,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Kayquin</code>, tenho 20 anos, moro em BH e sou programador desde os 15 anos de idade. Atualmente sou <code>Estudante</code> de Análise e Desenvolvimento de Sistemas da <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a>, Trabalho atualmente na <a href="https://abaxsistemas.com.br" target="_black">Ábax Sistemas</a>.</i> <br />
+<i><b>Olá</b> :wave:, sou o <code>Kayquin</code>, tenho 20 anos, moro em BH e sou programador desde os 15 anos de idade. Atualmente sou <code>Estudante</code> de Análise e Desenvolvimento de Sistemas da <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</i>. <br />
 </div>
 
 -----
