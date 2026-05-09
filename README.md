@@ -1,3 +1,9 @@
+<div align="center">
+
+<img alt="Header" width="100%" src="https://github.com/Kayquin/Kayquin/blob/main/img/headerprofile.png?raw=true"/>
+
+</div>
+
 <h1 align="center">Olá 👋, eu sou Kayque Avelar</h1>
 
 <p align="center">
@@ -19,6 +25,8 @@
 
 ## 👨‍💻 Sobre mim
 
+<img align="right" alt="Dev GIF" width="330px" src="https://github.com/Kayquin/Kayquin/blob/main/img/dev.gif?raw=true"/>
+
 Sou desenvolvedor Full Stack apaixonado por tecnologia, automações e criação de soluções digitais.
 
 Atualmente trabalho com:
@@ -32,26 +40,47 @@ Atualmente trabalho com:
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas.
 
+<br clear="right"/>
+
 ---
 
-## 🚀 Tecnologias
+## <img height="24" src="https://github.com/Kayquin/Kayquin/blob/main/img/skills.gif?raw=true"/> Tecnologias e ferramentas
+
+<p align="center">
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img alt="VS Code" width="45" height="45" src="https://github.com/Kayquin/Kayquin/blob/main/img/vs.png?raw=true"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.java.com/pt-BR/" target="_blank">
+    <img alt="Java" width="45" height="45" src="https://github.com/Kayquin/Kayquin/blob/main/img/java.png?raw=true"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.w3schools.com/html/" target="_blank">
+    <img alt="HTML" width="45" height="45" src="https://github.com/Kayquin/Kayquin/blob/main/img/html.svg?raw=true"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img alt="CSS" width="45" height="45" src="https://github.com/Kayquin/Kayquin/blob/main/img/css.svg?raw=true"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://dbeaver.io/" target="_blank">
+    <img alt="DBeaver" width="45" height="45" src="https://github.com/Kayquin/Kayquin/blob/main/img/dbeaver.png?raw=true"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.jetbrains.com/idea/" target="_blank">
+    <img alt="IntelliJ IDEA" width="45" height="45" src="https://github.com/Kayquin/Kayquin/blob/main/img/intellij.png?raw=true"/>
+  </a>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="API"/>
 </p>
 
@@ -69,7 +98,7 @@ Atualmente trabalho com:
 
 ---
 
-## 📊 GitHub Stats
+## <img height="24" src="https://github.com/Kayquin/Kayquin/blob/main/img/graphic.gif?raw=true"/> GitHub Stats
 
 <p align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kayquin&theme=tokyonight" alt="GitHub Stats"/>
@@ -102,17 +131,28 @@ Atualmente trabalho com:
 ## 🌐 Contato
 
 <p align="center">
+  <a href="mailto:Kayque9868@gmail.com" target="_blank">
+    <img alt="Gmail" width="58" height="58" src="https://github.com/Kayquin/Kayquin/blob/main/img/gmail3.png?raw=true"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/kayqueavelar/" target="_blank">
+    <img alt="Instagram" width="58" height="58" src="https://github.com/Kayquin/Kayquin/blob/main/img/insta2.png?raw=true"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://wa.me/5531989052637?text=Ol%C3%A1%2C%20Kayque%21%20Vim%20pelo%20seu%20GitHub." target="_blank">
+    <img alt="WhatsApp" width="58" height="58" src="https://github.com/Kayquin/Kayquin/blob/main/img/wpp2.png?raw=true"/>
+  </a>
+</p>
+
+<p align="center">
   <a href="mailto:Kayque9868@gmail.com">
-    <img src="https://img.shields.io/badge/Enviar_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Enviar_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar Email"/>
   </a>
   <a href="https://www.instagram.com/kayqueavelar/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://wa.me/5531989052637?text=Ol%C3%A1%2C%20Kayque%21%20Vim%20pelo%20seu%20GitHub." target="_blank">
     <img src="https://img.shields.io/badge/Chamar_no_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
-  <a href="https://github.com/Kayquin" target="_blank">
-    <img src="https://img.shields.io/badge/Meu_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
@@ -127,3 +167,20 @@ Atualmente trabalho com:
     <img alt="Snake animation" src="https://raw.githubusercontent.com/Kayquin/Kayquin/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
+
+---
+
+<div align="center">
+
+<img height="20" alt="Soulgem" src="https://github.com/Kayquin/Kayquin/blob/main/img/soulgem.gif?raw=true"/>
+
+```text
+██╗  ██╗ █████╗ ██╗   ██╗ ██████╗ ██╗   ██╗██╗███╗   ██╗
+██║ ██╔╝██╔══██╗╚██╗ ██╔╝██╔═══██╗██║   ██║██║████╗  ██║
+█████╔╝ ███████║ ╚████╔╝ ██║   ██║██║   ██║██║██╔██╗ ██║
+██╔═██╗ ██╔══██║  ╚██╔╝  ██║▄▄ ██║██║   ██║██║██║╚██╗██║
+██║  ██╗██║  ██║   ██║   ╚██████╔╝╚██████╔╝██║██║ ╚████║
+╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝    ╚══▀▀═╝  ╚═════╝ ╚═╝╚═╝  ╚═══╝
+```
+
+</div>
