@@ -126,5 +126,5 @@ Atualmente trabalho com:
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kayquin&style=for-the-badge&color=00BFFF" alt="Profile views"/>
+  <img src="https://img.shields.io/badge/Perfil_em_constante_evolu%C3%A7%C3%A3o-00BFFF?style=for-the-badge&logo=github&logoColor=white" alt="Perfil em constante evolução"/>
 </p>
