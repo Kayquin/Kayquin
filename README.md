@@ -10,6 +10,11 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kayquin&label=PROFILE+VIEWS&color=00bfff&style=for-the-badge&abbreviated=true" alt="Profile views" />
+  <img src="https://img.shields.io/badge/GitHub_Profile-Kayquin-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+</p>
+
 ---
 
 ## 👨‍💻 Sobre mim
@@ -121,10 +126,4 @@ Atualmente trabalho com:
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kayquin/Kayquin/output/github-contribution-grid-snake.svg">
     <img alt="Snake animation" src="https://raw.githubusercontent.com/Kayquin/Kayquin/output/github-contribution-grid-snake.svg">
   </picture>
-</p>
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Perfil_em_constante_evolu%C3%A7%C3%A3o-00BFFF?style=for-the-badge&logo=github&logoColor=white" alt="Perfil em constante evolução"/>
 </p>
