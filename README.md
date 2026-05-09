@@ -1,209 +1,130 @@
------
+<h1 align="center">Olá 👋, eu sou Kayque Avelar</h1>
 
-<div align="center">
-<img alt="Header" src="https://github.com/Kayquin/Kayquin/blob/main/img/headerprofile.png?raw=true"/>
-</div>
+<p align="center">
+  <strong>💻 Desenvolvedor Full Stack • 🚀 Criador de Sites • 📱 React Native • ⚡ Suporte ERP</strong>
+</p>
 
------
+<p align="center">
+  <a href="https://github.com/Kayquin">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full+Stack;React+%2F+React+Native;Sites+Profissionais;Integra%C3%A7%C3%B5es+com+APIs;Automa%C3%A7%C3%B5es+e+Solu%C3%A7%C3%B5es+Digitais" alt="Typing SVG" />
+  </a>
+</p>
 
-<div align="center">
-<table>
-<tr>
- <td align="center" colspan="11"></td>
-</tr> 
-<tr>
-<td><a href="mailto:Kayque9868@gmail.com" target="_blank"> <img src="https://github.com/Kayquin/Kayquin/blob/main/img/gmail3.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="https://www.instagram.com/kayqueavelar/" target="_blank"> <img src="https://github.com/Kayquin/Kayquin/blob/main/img/insta2.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="https://wa.me/5531980402103](https://api.whatsapp.com/send?phone=5531989052637&text=Me%20diga%20o%20que%20est%C3%A1%20precisando" target="_blank"><img src="https://github.com/Kayquin/Kayquin/blob/main/img/wpp2.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<!-- <td><a href="https://github.com/Kayquin" target="_blank"><img src="https://github.com/Kayquin/Kayquin/blob/main/img/github5.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="https://replit.com/@aramuni"><img src="https://github.com/Kayquin/Kayquin/blob/main/img/replit3.svg?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="https://www.linkedin.com/in/Kayquin/" target="_blank"><img src="https://github.com/Kayquin/Kayquin/blob/main/img/linkedin2.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="http://lattes.cnpq.br/1208427665892059" target="_blank"><img src="https://github.com/Kayquin/Kayquin/blob/main/img/lattes2.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="https://slack.com/app_redirect?channel=UVD9N6VCL"><img src="https://github.com/Kayquin/Kayquin/blob/main/img/slack.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="https://discordapp.com/users/959151773728251914" target="_blank"><img src="https://github.com/Kayquin/Kayquin/blob/main/img/discord2.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="https://www.skoob.com.br/perfil/Aramuni" target="_blank"><img src="https://github.com/Kayquin/Kayquin/blob/main/img/skoob2.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="https://scholar.google.com.br/citations?user=OARYxSYAAAAJ&hl=pt-BR&oi=ao" target="_blank"><img src="https://github.com/Kayquin/Kayquin/blob/main/img/scholar2.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="https://calendly.com/aramuni/" target="_blank"><img src="https://github.com/Kayquin/Kayquin/blob/main/img/calendar2.png?raw=true" width="50px" height="50px"/></a>-->
-</td>
-</tr>
-<tr>
- <td align="center" colspan="11"></td>
-</tr> 
-</table>
+---
 
-</div>
-<div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Kayquin</code>, tenho 22 anos, moro em BH e sou programador desde os 15 anos de idade. Atualmente sou <code>Estudante</code> de Análise e Desenvolvimento de Sistemas da <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</i>. <br />
-</div>
+## 👨‍💻 Sobre mim
 
------
+Sou desenvolvedor Full Stack apaixonado por tecnologia, automações e criação de soluções digitais.
 
-<!-- <div align="justify">
-<img height="20" alt="GIF" src="https://github.com/Kayquin/Kayquin/blob/main/img/soulgem.gif?raw=true"/>Sobre mim:
+Atualmente trabalho com:
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-</div>
+- 🌐 Desenvolvimento Web
+- 📱 Aplicativos Mobile
+- ⚡ Integrações com APIs
+- 🛒 E-commerce
+- 🤖 Automações
+- 💻 Suporte ERP
 
------ -->
+🎓 Estudante de Análise e Desenvolvimento de Sistemas.
 
+---
 
-<img align="right" alt="GIF" src="https://github.com/Kayquin/Kayquin/blob/main/img/dev.gif?raw=true" width="340px" height="400px"/>
+## 🚀 Tecnologias
 
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="API"/>
+</p>
 
-<!-- <div align="justify"> 
-<img height="20" alt="GIF" src="https://github.com/Kayquin/Kayquin/blob/main/img/soulgem.gif?raw=true"/>Meus interesses pessoais:
-</div>
+---
 
------ -->
+## 🚀 Projetos em destaque
 
-<div>
+<p align="center">
+  <img src="https://img.shields.io/badge/E--commerce-00BFFF?style=for-the-badge&logo=shopify&logoColor=white" alt="E-commerce"/>
+  <img src="https://img.shields.io/badge/App_React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="App React Native"/>
+  <img src="https://img.shields.io/badge/Dashboard_Admin-7B68EE?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Dashboard"/>
+  <img src="https://img.shields.io/badge/WhatsApp_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp API"/>
+  <img src="https://img.shields.io/badge/Sites_Profissionais-FF6F00?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Sites Profissionais"/>
+</p>
 
-<img height="20" alt="GIF" src="https://github.com/Kayquin/Kayquin/blob/main/img/skills.gif?raw=true"/>&nbsp;Linguagens e ferramentas:
+---
 
-<code><a href="https://code.visualstudio.com/" target="_blank"><img width="32" height="32" src="https://github.com/Kayquin/Kayquin/blob/main/img/vs.png?raw=true"/></a></code>
-&nbsp;
-<code><a href="https://www.java.com/pt-BR/" target="_blank"><img width="32" height="32" src="https://github.com/Kayquin/Kayquin/blob/main/img/java.png?raw=true"/></a></code>
-&nbsp;
-<code><a href="https://www.w3schools.com/html/" target="_blank"><img width="32" height="32" src="https://github.com/Kayquin/Kayquin/blob/main/img/html.svg?raw=true"/></a></code>
-&nbsp;
-<code><a href="https://www.w3schools.com/css/" target="_blank"><img width="32" height="32" src="https://github.com/Kayquin/Kayquin/blob/main/img/css.svg?raw=true"/></a></code>
-&nbsp;
-<code><a href="https://dbeaver.io/" target="_blank"><img width="32" height="32" src="https://github.com/Kayquin/Kayquin/blob/main/img/dbeaver.png?raw=true"/></a></code>
-&nbsp;
-<code><a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"><img width="32" height="32" src="https://github.com/Kayquin/Kayquin/blob/main/img/c.png?raw=true"/></a></code>
-&nbsp;
-<code><a href="https://www.jetbrains.com/idea/" target="_blank"><img width="32" height="32" src="https://github.com/Kayquin/Kayquin/blob/main/img/intellij.png?raw=true"/></a></code>
-<!-- <code><a href="https://www.gnu.org/software/bash/" target="_blank"><img height="32" src="https://github.com/Kayquin/Kayquin/blob/main/img/bash.png?raw=true"/></a></code>
-&nbsp; 
-<code><a href="https://www.mysql.com/" target="_blank"><img width="32" height="32" src="https://github.com/Kayquin/Kayquin/blob/main/img/mysql.png?raw=true"/></a></code>
-&nbsp;
-<code><a href="https://www.mongodb.com/pt-br" target="_blank"><img width="32" height="32" src="https://github.com/Kayquin/Kayquin/blob/main/img/mongodb.png?raw=true"/></a></code>
-&nbsp;
-<code><a href="https://www.python.org/" target="_blank"><img width="32" height="32" src="https://github.com/Kayquin/Kayquin/blob/main/img/python.png?raw=true"/></a></code>
-&nbsp; 
-<code><a href="https://isocpp.org/" target="_blank"><img width="32" height="32" src="https://github.com/Kayquin/Kayquin/blob/main/img/cpp.svg?raw=true"/></a></code>
-&nbsp; 
-<code><a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"><img width="32" height="32" src="https://github.com/Kayquin/Kayquin/blob/main/img/csharp.png?raw=true"/></a></code>
-&nbsp;  
-<code><a href="https://openjfx.io/" target="_blank"><img height="32" src="https://github.com/Kayquin/Kayquin/blob/main/img/javafx.png?raw=true"/></a></code>
-&nbsp; 
-<code><a href="https://www.primefaces.org/" target="_blank"><img width="32" height="32" src="https://github.com/Kayquin/Kayquin/blob/main/img/primefaces.png?raw=true"/></a></code>
-&nbsp;
-<code><a href="https://spring.io/" target="_blank"><img width="32" height="32" src="https://github.com/Kayquin/Kayquin/blob/main/img/spring.png?raw=true"/></a></code>
-&nbsp;
-<code><a href="https://www.playframework.com/" target="_blank"><img width="48" height="32" src="https://github.com/Kayquin/Kayquin/blob/main/img/play.png?raw=true"/></a></code>
-&nbsp;
-<code><a href="https://www.scala-lang.org/" target="_blank"><img width="32" height="32" src="https://github.com/Kayquin/Kayquin/blob/main/img/scala.png?raw=true"/></a></code>
-&nbsp;
-<code><a href="https://www.jenkins.io/" target="_blank"><img width="32" height="32" src="https://github.com/Kayquin/Kayquin/blob/main/img/jenkins.svg?raw=true"/></a></code>
-&nbsp;
-<code><a href="https://www.w3schools.com/js/" target="_blank"><img width="32" height="32" src="https://github.com/Kayquin/Kayquin/blob/main/img/js.png?raw=true"/></a></code>
-&nbsp; 
-<code><a href="https://pt-br.reactjs.org/" target="_blank"><img width="32" height="32" src="https://github.com/Kayquin/Kayquin/blob/main/img/react.png?raw=true"/></a></code>
-&nbsp; 
-<code><a href="https://docs.microsoft.com/pt-br/windows/win32/lwef/using-vbscript" target="_blank"><img width="32" height="32" src="https://github.com/Kayquin/Kayquin/blob/main/img/vbs.png?raw=true"/></a></code>
-&nbsp;  
-<code><a href="https://www.postgresql.org/" target="_blank"><img width="32" height="32" src="https://github.com/Kayquin/Kayquin/blob/main/img/postgresql.png?raw=true"/></a></code>
-&nbsp;
-<code><a href="https://nodejs.org/en/" target="_blank"><img width="32" height="32" src="https://github.com/Kayquin/Kayquin/blob/main/img/nodejs.png?raw=true"/></a></code>
-&nbsp;
-<code><a href="https://nextjs.org/" target="_blank"><img width="32" height="32" src="https://github.com/Kayquin/Kayquin/blob/main/img/nextjs.png?raw=true"/></a></code>
-&nbsp;
-<code><a href="https://jestjs.io/pt-BR/" target="_blank"><img width="30" height="32" src="https://github.com/Kayquin/Kayquin/blob/main/img/jest.png?raw=true"/></a></code>
-&nbsp;
-<code><a href="https://prometheus.io/" target="_blank"><img width="32" height="32" src="https://github.com/Kayquin/Kayquin/blob/main/img/prometheus.png?raw=true"/></a></code>
-&nbsp;
-<code><a href="https://grafana.com/" target="_blank"><img width="32" height="32" src="https://github.com/Kayquin/Kayquin/blob/main/img/grafana.png?raw=true"/></a></code>
-&nbsp; 
-<code><a href="https://newrelic.com/pt" target="_blank"><img width="32" height="32" src="https://github.com/Kayquin/Kayquin/blob/main/img/newrelic.png?raw=true"/></a></code>
-&nbsp; 
-<code><a href="https://fastapi.tiangolo.com/" target="_blank"><img width="32" height="32" src="https://github.com/Kayquin/Kayquin/blob/main/img/fastapi.svg?raw=true"/></a></code>
-&nbsp; 
-<code><a href="https://www.docker.com/" target="_blank"><img width="32" height="32" src="https://github.com/Kayquin/Kayquin/blob/main/img/docker.png?raw=true"/></a></code>
-&nbsp; 
-<code><a href="https://aws.amazon.com/pt/" target="_blank"><img width="32" height="32" src="https://github.com/Kayquin/Kayquin/blob/main/img/aws.png?raw=true"/></a></code>
-&nbsp; 
-<code><a href="https://www.heroku.com/" target="_blank"><img width="32" height="32" src="https://github.com/Kayquin/Kayquin/blob/main/img/heroku.png?raw=true"/></a></code>
-&nbsp; 
-<code><a href="https://dotnet.microsoft.com/en-us/" target="_blank"><img width="32" height="32" src="https://github.com/Kayquin/Kayquin/blob/main/img/dotnet.png?raw=true"/></a></code>
-&nbsp; 
-<code><a href="https://www.postman.com/" target="_blank"><img width="32" height="32" src="https://github.com/Kayquin/Kayquin/blob/main/img/postman.png?raw=true"/></a></code>
-&nbsp; 
-<code><a href="https://insomnia.rest/" target="_blank"><img width="32" height="32" src="https://github.com/Kayquin/Kayquin/blob/main/img/insomnia.png?raw=true"/></a></code>
-&nbsp; 
-<code><a href="https://www.soapui.org/" target="_blank"><img width="32" height="32" src="https://github.com/Kayquin/Kayquin/blob/main/img/soap.png?raw=true"/></a></code>
-&nbsp; 
-<code><a href="https://redis.io/" target="_blank"><img width="32" height="32" src="https://github.com/Kayquin/Kayquin/blob/main/img/redis.png?raw=true"/></a></code>
-&nbsp;
-<code><a href="https://aws.amazon.com/pt/s3/" target="_blank"><img width="32" height="32" src="https://github.com/Kayquin/Kayquin/blob/main/img/s3.svg?raw=true"/></a></code>
-&nbsp;
-<code><a href="https://aws.amazon.com/pt/sqs/" target="_blank"><img width="32" height="32" src="https://github.com/Kayquin/Kayquin/blob/main/img/sqs.png?raw=true"/></a></code>
-&nbsp;
-<code><a href="https://git-scm.com/" target="_blank"><img width="32" height="32" src="https://github.com/Kayquin/Kayquin/blob/main/img/git.png?raw=true"/></a></code>
-&nbsp; 
-<code><a href="https://about.gitlab.com/" target="_blank"><img width="32" height="32" src="https://github.com/Kayquin/Kayquin/blob/main/img/gitlab.png?raw=true"/></a></code>
-&nbsp; 
-<code><a href="https://www.jetbrains.com/pt-br/pycharm/download/" target="_blank"><img width="32" height="32" src="https://github.com/Kayquin/Kayquin/blob/main/img/pc.png?raw=true"/></a></code>
-&nbsp; 
-<code><a href="https://www.eclipse.org/downloads/" target="_blank"><img width="32" height="32" src="https://github.com/Kayquin/Kayquin/blob/main/img/eclipse.png?raw=true"/></a></code>
-&nbsp; 
-<code><a href="https://netbeans.apache.org/" target="_blank"><img width="32" height="32" src="https://github.com/Kayquin/Kayquin/blob/main/img/netbeans.png?raw=true"/></a></code>
-&nbsp;
-<code><a href="https://developer.apple.com/xcode/" target="_blank"><img width="32" height="32" src="https://github.com/Kayquin/Kayquin/blob/main/img/xcode.png?raw=true"/></a></code> -->
-</div>
+## 📊 GitHub Stats
 
------
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kayquin&theme=tokyonight" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kayquin&theme=tokyonight" alt="Linguagens por repositório"/>
+</p>
 
-<img height="20" alt="GIF" src="https://github.com/Kayquin/Kayquin/blob/main/img/graphic.gif?raw=true"/>GitHub Stats:
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kayquin&theme=tokyonight" alt="Linguagens por commit"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kayquin&theme=tokyonight&utcOffset=-3" alt="Horário produtivo"/>
+</p>
 
-<div>
-<img align="left" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kayquin&theme=github_dark"/>
-<!--- <img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kayquin&theme=github_dark"/> -->
-<img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kayquin&theme=github_dark"/>
-<img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kayquin&theme=github_dark"/>
-</div>
+---
 
------
+## 📈 Contribuições
 
-<div>
-<details>
-<summary><img height="20" alt="GIF" src="https://github.com/Kayquin/Kayquin/blob/main/img/spotify.gif?raw=true"/> Kayquin Spotify Data</summary>
-<img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=kayque9868" alt="Data Card for Spotify">
-</details>
-<div align="center">
-<img alt="Spotify" width="200px" height="270px" src="https://spotify-github-profile.vercel.app/api/view?uid=kayque9868&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"/>
-</div>
-</div>
-<div align="center">
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kayquin&theme=tokyonight" alt="Resumo do perfil"/>
+</p>
 
------
+---
 
-```text
-██╗  ██╗ █████╗ ██╗   ██╗ ██████╗ ██╗   ██╗██╗███╗   ██╗
-██║ ██╔╝██╔══██╗╚██╗ ██╔╝██╔═══██╗██║   ██║██║████╗  ██║
-█████╔╝ ███████║ ╚████╔╝ ██║   ██║██║   ██║██║██╔██╗ ██║
-██╔═██╗ ██╔══██║  ╚██╔╝  ██║▄▄ ██║██║   ██║██║██║╚██╗██║
-██║  ██╗██║  ██║   ██║   ╚██████╔╝╚██████╔╝██║██║ ╚████║
-╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝    ╚══▀▀═╝  ╚═════╝ ╚═╝╚═╝  ╚═══╝
-```
-<img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=Kayquin"/>
+## 🏆 Conquistas
 
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Kayquin&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" alt="Troféus GitHub"/>
+</p>
+
+---
+
+## 🌐 Contato
+
+<p align="center">
+  <a href="mailto:Kayque9868@gmail.com">
+    <img src="https://img.shields.io/badge/Enviar_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.instagram.com/kayqueavelar/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://wa.me/5531989052637?text=Ol%C3%A1%2C%20Kayque%21%20Vim%20pelo%20seu%20GitHub." target="_blank">
+    <img src="https://img.shields.io/badge/Chamar_no_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  <a href="https://github.com/Kayquin" target="_blank">
+    <img src="https://img.shields.io/badge/Meu_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
+## 🐍 Snake Contributions
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kayquin/Kayquin/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kayquin/Kayquin/output/github-contribution-grid-snake.svg">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/Kayquin/Kayquin/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kayquin&style=for-the-badge&color=00BFFF" alt="Profile views"/>
+</p>
