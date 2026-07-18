@@ -68,7 +68,7 @@ Sou desenvolvedor Full Stack focado na construção de aplicações escaláveis,
 
 ## 🎯 Portfólio & Soluções em Destaque
 
-*(Adicione links reais ou descrições dos seus repositórios preferidos aqui!)*
+*(Sugestão: Adicione links reais dos seus repositórios ativos aqui!)*
 
 *   🛒 **E-commerce & Landing Pages:** Lojas virtuais de alta velocidade otimizadas para conversão móvel.
 *   📱 **Aplicativos Nativos:** Layouts fluidos criados em React Native e integrados a bancos NoSQL/SQL.
@@ -95,10 +95,10 @@ Sou desenvolvedor Full Stack focado na construção de aplicações escaláveis,
 
 ---
 
-## 🏆 Conquistas no Ecossistema
+## ⚡ Ritmo & Consistência de Código
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kayquin&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" alt="Troféus GitHub"/>
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kayquin&theme=tokyonight&hide_border=true" alt="GitHub Streak de Contribuições"/>
 </p>
 
 ---
